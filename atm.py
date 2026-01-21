@@ -1,3 +1,7 @@
+# ATM Simulation Program
+# This program simulates basic ATM operations using random library to generate otp
+# Author: Ishika Rathi
+
 import random
 for i in range(100):
     
