@@ -9,10 +9,10 @@ for i in range(100):
     x=random.randrange(0000,9999)
     print("your OTP is : ",x)
     print("Press 1 for deposit,2 for withdrawl,3 for checking balance : ")
-    OTP=eval(input("Enter OTP : "))
+    OTP=int(input("Enter OTP : "))
     if OTP==x:
         print("OTP verified✅")
-        k=eval(input("Enter choice : "))
+        k=int(input("Enter choice : "))
         if k==1:
             a=eval(input("Enter amount to deposit : "))
             amount=amount+a
