@@ -1,0 +1,4 @@
+a='''I AM ISHIKA RATHI
+CURRENTLY DOING MY GRADUATION IN IMR COLLEGE'''
+x=a.islower()
+print(x)
