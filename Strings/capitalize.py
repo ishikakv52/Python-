@@ -1,0 +1,4 @@
+a='''i AM ISHIKA RATHI
+CURRENTLY DOING MY GRADUATION IN IMR COLLEGE'''
+x=a.capitalize()
+print(x)
